@@ -1,2 +1,2 @@
 # stats
-statistical
+# statistical tools for remote sensing
